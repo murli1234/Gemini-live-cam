@@ -1,0 +1,148 @@
+2025-04-30 19:17:54,432 - INFO - [20250430-191754-432672] Request started: POST http://localhost:8000/run
+2025-04-30 19:17:54,432 - INFO - [20250430-191754-432672] Request headers: {
+  "user-agent": "PostmanRuntime/7.43.4",
+  "accept": "*/*",
+  "postman-token": "75aaa37c-3b45-442c-89c9-91311734a80a",
+  "host": "localhost:8000",
+  "accept-encoding": "gzip, deflate, br",
+  "connection": "keep-alive",
+  "content-length": "0"
+}
+2025-04-30 19:17:54,434 - INFO - [20250430-191754-432672] Response status: 422
+2025-04-30 19:18:08,846 - INFO - [20250430-191808-846882] Request started: GET http://localhost:8000/run
+2025-04-30 19:18:08,846 - INFO - [20250430-191808-846882] Request headers: {
+  "user-agent": "PostmanRuntime/7.43.4",
+  "accept": "*/*",
+  "postman-token": "33513ec5-1c9a-4d79-9c30-fc70a6b07342",
+  "host": "localhost:8000",
+  "accept-encoding": "gzip, deflate, br",
+  "connection": "keep-alive"
+}
+2025-04-30 19:18:08,848 - INFO - [20250430-191808-846882] Response status: 405
+2025-04-30 19:18:52,403 - INFO - [20250430-191852-403181] Request started: GET http://localhost:8000/
+2025-04-30 19:18:52,404 - INFO - [20250430-191852-403181] Request headers: {
+  "host": "localhost:8000",
+  "connection": "keep-alive",
+  "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\"",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "sec-fetch-site": "none",
+  "sec-fetch-mode": "navigate",
+  "sec-fetch-user": "?1",
+  "sec-fetch-dest": "document",
+  "accept-encoding": "gzip, deflate, br, zstd",
+  "accept-language": "en-GB,en-US;q=0.9,en;q=0.8,hi;q=0.7",
+  "cookie": "Idea-d815994b=d5e058aa-f083-4970-8ff4-3ecddf3e6cd6; ajs_anonymous_id=50cdb665-15f1-4c5e-9948-49ef6c8792af"
+}
+2025-04-30 19:18:52,404 - INFO - [20250430-191852-403181] Response status: 404
+2025-04-30 19:19:09,572 - INFO - [20250430-191909-572006] Request started: GET http://127.0.0.1:8000/
+2025-04-30 19:19:09,572 - INFO - [20250430-191909-572006] Request headers: {
+  "host": "127.0.0.1:8000",
+  "connection": "keep-alive",
+  "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\"",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "sec-fetch-site": "none",
+  "sec-fetch-mode": "navigate",
+  "sec-fetch-user": "?1",
+  "sec-fetch-dest": "document",
+  "accept-encoding": "gzip, deflate, br, zstd",
+  "accept-language": "en-GB,en-US;q=0.9,en;q=0.8,hi;q=0.7"
+}
+2025-04-30 19:19:09,573 - INFO - [20250430-191909-572006] Response status: 404
+2025-04-30 19:19:09,658 - INFO - [20250430-191909-658746] Request started: GET http://127.0.0.1:8000/favicon.ico
+2025-04-30 19:19:09,661 - INFO - [20250430-191909-658746] Request headers: {
+  "host": "127.0.0.1:8000",
+  "connection": "keep-alive",
+  "sec-ch-ua-platform": "\"Windows\"",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+  "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+  "sec-ch-ua-mobile": "?0",
+  "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+  "sec-fetch-site": "same-origin",
+  "sec-fetch-mode": "no-cors",
+  "sec-fetch-dest": "image",
+  "referer": "http://127.0.0.1:8000/",
+  "accept-encoding": "gzip, deflate, br, zstd",
+  "accept-language": "en-GB,en-US;q=0.9,en;q=0.8,hi;q=0.7"
+}
+2025-04-30 19:19:09,663 - INFO - [20250430-191909-658746] Response status: 404
+2025-04-30 19:24:12,921 - INFO - [20250430-192412-920007] Request started: POST http://localhost:8000/run
+2025-04-30 19:24:12,921 - INFO - [20250430-192412-920007] Request headers: {
+  "host": "localhost:8000",
+  "user-agent": "curl/8.12.1",
+  "accept": "*/*",
+  "content-type": "application/json",
+  "content-length": "7"
+}
+2025-04-30 19:24:12,922 - INFO - [20250430-192412-920007] Request body: '{mode:
+2025-04-30 19:24:12,923 - INFO - [20250430-192412-920007] Response status: 422
+2025-04-30 19:27:35,700 - INFO - [20250430-192735-700364] Request started: GET http://localhost:8000/run/send-text
+2025-04-30 19:27:35,700 - INFO - [20250430-192735-700364] Request headers: {
+  "user-agent": "PostmanRuntime/7.43.4",
+  "accept": "*/*",
+  "postman-token": "288adef2-8da6-46a0-bd3e-9fa4a31b3b41",
+  "host": "localhost:8000",
+  "accept-encoding": "gzip, deflate, br",
+  "connection": "keep-alive"
+}
+2025-04-30 19:27:35,700 - INFO - [20250430-192735-700364] Response status: 404
+2025-04-30 19:29:52,661 - INFO - [20250430-192952-661117] Request started: GET http://localhost:8000/send-text
+2025-04-30 19:29:52,698 - INFO - [20250430-192952-661117] Request headers: {
+  "user-agent": "PostmanRuntime/7.43.4",
+  "accept": "*/*",
+  "postman-token": "56c12466-eaa5-476f-a761-6439cecf7d1d",
+  "host": "localhost:8000",
+  "accept-encoding": "gzip, deflate, br",
+  "connection": "keep-alive"
+}
+2025-04-30 19:29:52,699 - INFO - [20250430-192952-661117] Response status: 405
+2025-04-30 19:30:04,348 - INFO - [20250430-193004-346635] Request started: GET http://localhost:8000/run/send-text
+2025-04-30 19:30:04,348 - INFO - [20250430-193004-346635] Request headers: {
+  "user-agent": "PostmanRuntime/7.43.4",
+  "accept": "*/*",
+  "postman-token": "bbc523d4-37e3-477b-8d34-14628b4bffac",
+  "host": "localhost:8000",
+  "accept-encoding": "gzip, deflate, br",
+  "connection": "keep-alive"
+}
+2025-04-30 19:30:04,348 - INFO - [20250430-193004-346635] Response status: 404
+2025-04-30 20:17:50,808 - INFO - [20250430-201750-808906] Request started: POST http://localhost:8000/run
+2025-04-30 20:17:50,810 - INFO - [20250430-201750-808906] Request headers: {
+  "content-type": "application/json",
+  "user-agent": "PostmanRuntime/7.43.4",
+  "accept": "*/*",
+  "postman-token": "8bd81de7-f001-42e3-8d26-8263bd4748e0",
+  "host": "localhost:8000",
+  "accept-encoding": "gzip, deflate, br",
+  "connection": "keep-alive",
+  "content-length": "35"
+}
+2025-04-30 20:17:50,811 - INFO - [20250430-201750-808906] Request body:    {
+       "mode": "camera"
+   }
+2025-04-30 20:17:50,814 - INFO - Starting Gemini Live with mode: camera
+2025-04-30 20:17:53,665 - INFO - b'{\n  "setupComplete": {}\n}\n'
+2025-04-30 22:13:53,236 - INFO - [20250430-221353-236463] Request started: POST http://localhost:8000/run
+2025-04-30 22:13:53,237 - INFO - [20250430-221353-236463] Request headers: {
+  "content-type": "application/json",
+  "user-agent": "PostmanRuntime/7.43.4",
+  "accept": "*/*",
+  "postman-token": "1473c36c-e6c0-444e-98e6-93f7e99bbd9f",
+  "host": "localhost:8000",
+  "accept-encoding": "gzip, deflate, br",
+  "connection": "keep-alive",
+  "content-length": "35"
+}
+2025-04-30 22:13:53,239 - INFO - [20250430-221353-236463] Request body:    {
+       "mode": "camera"
+   }
+2025-04-30 22:13:53,242 - INFO - Starting Gemini Live with mode: camera
+2025-04-30 22:13:54,235 - INFO - b'{\n  "setupComplete": {}\n}\n'
+2025-04-30 22:14:37,029 - INFO - [20250430-221353-236463] Response status: 200
